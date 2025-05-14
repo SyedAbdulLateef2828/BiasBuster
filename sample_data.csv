@@ -1,0 +1,9 @@
+id,gender,income,age,approved
+1,Male,50000,25,Yes
+2,Female,52000,28,Yes
+3,Male,40000,22,No
+4,Female,30000,21,No
+5,Male,80000,45,Yes
+6,Female,25000,23,No
+7,Male,100000,50,Yes
+8,Female,29000,22,No
